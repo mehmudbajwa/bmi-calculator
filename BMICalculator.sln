@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculator", "BMICalculator\BMICalculator.csproj", "{51E6A441-8E94-460C-A5A8-60A9F3295FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Release|iPhone.Build.0 = Release|iPhone
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{51E6A441-8E94-460C-A5A8-60A9F3295FAF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
