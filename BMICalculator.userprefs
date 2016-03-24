@@ -1,1 +1,3 @@
-﻿<Properties StartupItem="BMICalculator/BMICalculator.csproj" />
+﻿<Properties StartupItem="BMICalculator.Android/BMICalculator.Android.csproj">
+  <MonoDevelop.Ide.ItemProperties.BMICalculator.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
